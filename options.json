@@ -1,0 +1,14 @@
+{
+  "readFrom": "./io/inventory.txt"
+ ,"writeTo": "./io/tradelist.txt"
+ ,"introFrom": "./io/shop_intro.txt"
+ ,"includeIntro": true
+ ,"logTekker": false
+ ,"logReserved": false
+ ,"reserved": [
+    /* Examples */
+    { "name": "V101", "amount": 255 }
+   ,{ "name": "Adept", "amount": 255 }
+   ,{ "name": "Raygun +15 [Charge] [0/0/0/0|50]", "amount": 1 }
+  ]
+}

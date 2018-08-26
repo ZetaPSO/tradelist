@@ -1,0 +1,24 @@
+{
+  "normal": [
+    "^Saber [+|\\[]", "^Brand [+|\\[]", "^Pallasch [+|\\[]", "^Gladius [+|\\[]",
+    "^Dagger [+|\\[]", "^Ripper [+|\\[]",
+    "^Handgun [+|\\[]", "^Autogun [+|\\[]", "^Railgun [+|\\[]", "^Raygun [+|\\[]",
+    "^Rifle [+|\\[]", "^Blaster [+|\\[]", "^Laser [+|\\[]",
+    "^Mechgun [+|\\[]", "^Assault [+|\\[]", "^Gatling [+|\\[]", "^Vulcan [+|\\[]",
+    "^Shot [+|\\[]", "^Spread [+|\\[]", "^Launcher [+|\\[]", "^Cannon [+|\\[]", "^Arms [+|\\[]",
+    "^Slicer [+|\\[]", "^Sawcer [+|\\[]", "^Diska [+|\\[]",
+    "^Partisan [+|\\[]", "^Halbert [+|\\[]", "^Berdys [+|\\[]", "^Gungnir [+|\\[]",
+    "^Club [+|\\[]", "^Striker [+|\\[]",
+    "^Calibur [+|\\[]",
+    "^Scepter [+|\\[]"
+  ]
+  ,"unit": [
+    "V101"
+    ,"V501"
+    ,"V502"
+    ,"V801"
+    ,"Smartlink"
+    ,"Adept"
+    ,"Limiter"
+  ]
+}
