@@ -48,7 +48,7 @@ function typeColor(str) {
 }
 
 function slotColor(str) {
-  //let out = str.replace('[' + i + ']', '[COLOR=' + specials[i] + '][' + i + '][/COLOR]')
+  //TODO: Color slot amount like item reader
   return str
 }
 
